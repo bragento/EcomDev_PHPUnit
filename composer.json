@@ -15,8 +15,5 @@
         {
             "name":"Ivan Chepurnyi"
         }
-    ],
-    "extra": {
-        "magento-root-dir": "tests/magento"
-    }
+    ]
 }
